@@ -1,0 +1,23 @@
+<!--* Assignment 5
+    * Zhong Zheng
+    * Oregon State University
+    * CS 492-->
+<resources>
+    <string name="app_name">Mobile Treasure Hunt</string>
+    <string name="start_game">Start Game</string>
+    <string name="Textual_Clue1">A key rapped by black paper around Starbucks at Pioneer Square Portland</string>
+    <string name="Textual_Clue2">In the library of this university, there is a 3D printing section. Find a printed object that it\'s not a Creature</string>
+    <string name="hint1">In a nice Sunny day, where do people enjoy their coffee near the Starbucks?</string>
+    <string name="hint2">You have a key in hand, think about it…</string>
+    <string name="wrong_location">there\'re still way to go</string>
+    <string name="more_info">Now, lets go to the greatest university in Oregon. Think about three letters</string>
+    <string name="complete">Complete!</string>
+    <string name="back_button">Back</string>
+    <string name="rule1">Rule1: DO NOT crack this app to get the location
+        You will ruin all the fun and your efforts.</string>
+    <string name="rule2">Rule2: You can take any transportation tool to reach
+    the destination.</string>
+    <string name="rule3">Rule3: Once you found the clue, please stay within 3
+    meters to let the app clear the clue for you.</string>
+    <string name="Final_Clue_Info">Now you have a photo of a lighthouse. Go to the west coast in Oregon. You won\'t miss it.</string>
+</resources>
